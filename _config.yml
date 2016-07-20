@@ -1,0 +1,14 @@
+layout_spectrum: 0.1738351
+typography_spectrum: 0.5107527
+color:
+  saturation: 0.3770635
+  lightness: 0.9049308
+  brandStrength: 0.2867384
+  brandColors:
+    - '#0F1418'
+    - '#FFFFFD'
+    - '#24323F'
+    - '#A4A39F'
+    - '#455E7C'
+  rhythmicContrast: 0.8809743
+name: Surgery360
